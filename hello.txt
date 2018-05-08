@@ -3,6 +3,3 @@ yisay
 yi
 <<<<<<< HEAD
 idontloveyou
-=======
-iloveyou
->>>>>>> yisay
