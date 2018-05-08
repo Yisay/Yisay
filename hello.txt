@@ -1,4 +1,8 @@
 hello github
 yisay
 yi
+<<<<<<< HEAD
 idontloveyou
+=======
+iloveyou
+>>>>>>> yisay
